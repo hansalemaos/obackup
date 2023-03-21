@@ -1,7 +1,7 @@
-# Backup files from a server using Onionshare
+# Backup files from a remote computer using Onionshare
 
 1) Run connecttoserver.exe as admin on your PC 
-2) Run clientstart.exe as admin on the server:
+2) Run clientstart.exe as admin on the remote PC:
 C:\obackup\clientstart.exe --onion http://xdgjlseizutrr65pvast2g26mdxdgjlseizutrr65pvast2g26mduid.onion --folder c:\uploadstuff --regex .* --depth 10 --logfile c:\logfiletext.txt --exitkeys ctrl+x+e --sleepfile 0.1 --sleeprotation 0.1
 
 Explanation: 
