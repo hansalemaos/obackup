@@ -20,7 +20,7 @@ Regex file filter
 
 ### --depth 10
 
-Max depths of subdirectories 
+Max depth of subdirectories 
 
 ### --logfile c:\logfiletext.txt
 
